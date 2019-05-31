@@ -30,7 +30,7 @@ print(id(a))
 print("===============")
 h=s.startswith("M")
 print(h)
-print("===============")
+print("========= ======")
 print(s.endswith("g"))
 print("===============")
 li=["name","roll no.","email","marks ","phone number :"]
