@@ -33,7 +33,7 @@ print(h)
 print("===============")
 print(s.endswith("g"))
 print("===============")
-li=["name","roll no.","email","marks ","phone number:"]
+li=["name","roll no.","email","marks ","phone number :"]
 print(li[-1])
 print("===============")
 for i in range(0,3):
