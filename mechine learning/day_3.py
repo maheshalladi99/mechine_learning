@@ -5,7 +5,7 @@ a=s.split("_")
 print(a)
 b=s.find("l")
 print(b)
-print("===============")
+print("========= ======")
 c= "i" in s
 print(c)
 print("===============")
